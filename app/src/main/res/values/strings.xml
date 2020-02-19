@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_labTest_764942</string>
+    <string name="add_a_new_person">Add new Person</string>
+    <string name="add_person">add person</string>
+    <string name="view_person_information">view information</string>
+    <string name="edit">Edit</string>
+    <string name="delete">delete</string>
+    <string name="add_new_employee">add new person</string>
+</resources>
